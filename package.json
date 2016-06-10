@@ -1,0 +1,28 @@
+{
+  "name": "bbtest1",
+  "version": "1.0.0",
+  "description": "This is the first test of NPM",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldmill1/bbtest1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ankur Taxali <ataxali@gadventures.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oldmill1/bbtest1/issues"
+  },
+  "homepage": "https://github.com/oldmill1/bbtest1#readme"
+}
